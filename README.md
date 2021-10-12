@@ -1,21 +1,21 @@
 # EXTINCFARM-BOT
 
-CE BOT EST AS BUT EDUCATIF, JE NE TÔLERE EN AUCUN CAS L'UTILISATION DE LOGICIEL TIERCE COMME ESCLAVE, A UTILISER A VOS RISQUES ET PERILS.
+Ce bot est as but educatif, je ne tôlere en aucun cas l'utilisation de logiciel tierce comme esclave, a utiliser a vos risques et perils.
 
 →  EXTINCFARM, UN BOT QUI VOUS RENDRA HEUREUX PENDANT VOS SESSION DE JEUX.
 
-NE PAS CHANGER LE NOM DU DOSSIER SINON LE SCRIPT MARCHERA PLUS ET TANT PIS POUR VOUS + PRENNEZ VOS SCREENS VOUS MÊME POUR LES OBJETS + METTEZ LE .EXE DANS LE DOSSIER /khalifouille
+Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour vous + prenez vos screens vous même pour les objets + mettez le .exe dans le dossier /khalifouille
 
 →  PRE-REQUIS: FIVE-M / COMPTE EXTINCTION NON BANNI / UN CERVEAU / RESOLUTION 1920X1080 ET PAINT
 
-- AJOUT D'UN TIMER TMTC POUR VOIR COMBIEN DE TEMPS TU FARM (CELUI QUI AS LE TEMPS LE PLUS ELEVE JE LUI DONNE 3M)
-- RE-ORGANISATION ET OPTIMISATION DU SCRIPT ZEHMA ON EST DES PRO
+- Ajout d'un timer tmtc pour voir combien de temps tu farm (celui qui a le temps le plus élevé je lui donne 3m)
+- Re-organisation et optimisation du script zehma on est des pro
 
 # VA ARRIVER PEUT-ETRE PROCHAINEMENT
-- UN NOUVEAU MODE POUR CEUX QUI VEULENT QUE DES DINGUERIIIIIIIIIIIIIIIES DANS LEURS LOOT
-- UN GARS QUI T'INSULTE QUAND TU QUITTE SANS FAIRE DE DON 
+- Un nouveau mode pour ceux qui veulent que des dingueriiiiiiiiiiiiiiies dans leurs loot
+- Un gars qui t'insulte quand tu quittes sans faire de don.
 
 ## MISE A JOUR DU 12/10/2021
 
-- AJOUT D'UN SYSTEME AUTO DE SUPRESSION D'OBJETS APRES AMASSAGE DES LOOTS
-- PRISE EN COMPTE D'AUTRES ITEMS QUI SERONT LISTER UN PEU PLUS-TARD (SI J'AI LE TEMPS PSK FLEMME LA)
+- Ajout d'un systeme auto de supression d'objets apres amassage des loots
+- Prise en compte d'autres items qui seront lister un peu plus-tard (si j'ai le temps psk flemme la)
