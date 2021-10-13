@@ -24,3 +24,8 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 
 - Augmentation de +50 objets à supprimer après vérification du sac
 - Ajout de 11 loots qui sont maintenant reconnu par le bot
+
+## MISE A JOUR DU 12/10/2021
+
+- Fix d'un bug qui bloquer l'accès au TAB
+- Optimisation du script et refonte du code (on fait tjr zehma on est pro tmtc)
