@@ -20,12 +20,12 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 - Ajout d'un système auto de suppression d'objets après amassage des loots
 - Prise en compte d'autres items qui seront lister un peu plus tard (si j'ai le temps psk flemme la)
 
-## MISE A JOUR DU 12/10/2021
+## MISE A JOUR DU 13/10/2021
 
 - Augmentation de +50 objets à supprimer après vérification du sac
 - Ajout de 11 loots qui sont maintenant reconnu par le bot
 
-## MISE A JOUR DU 13/10/2021
+## MISE A JOUR DU 14/10/2021
 
 - Fix d'un bug qui bloquer l'accès au TAB
 - Optimisation du script et refonte du code (on fait tjr zehma on est pro tmtc)
