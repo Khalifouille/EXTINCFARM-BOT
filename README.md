@@ -29,3 +29,4 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 
 - Fix d'un bug qui bloquer l'accès au TAB
 - Optimisation du script et refonte du code (on fait tjr zehma on est pro tmtc)
+- Retrait des images de mon jeu ou/et image ne correspondant pas au nom écrit dessus
