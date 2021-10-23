@@ -31,7 +31,7 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 - Optimisation du script et refonte du code (on fait tjr zehma on est pro tmtc)
 - Retrait des images de mon jeu ou/et image ne correspondant pas au nom écrit dessus
 
-## MISE A JOUR DU 14/10/2021
+## MISE A JOUR DU 22/10/2021
 
 - Le bot se ferme après 3 heures d'utilisation non stop, ça permet de save les items que vous possédez
 - Ajout d'un son lorsque vous quittez le bot via la touche F3
