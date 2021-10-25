@@ -36,3 +36,8 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 - Le bot se ferme après 3 heures d'utilisation non stop, ça permet de save les items que vous possédez
 - Ajout d'un son lorsque vous quittez le bot via la touche F3
 - Ajout de nouveaux items
+
+## MISE A JOUR DU 22/10/2021
+
+- Retrait de l'auto close du bot après 3heures
+- Ajout d'un nouveau item
