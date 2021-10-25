@@ -37,7 +37,7 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 - Ajout d'un son lorsque vous quittez le bot via la touche F3
 - Ajout de nouveaux items
 
-## MISE A JOUR DU 22/10/2021
+## MISE A JOUR DU 25/10/2021
 
 - Retrait de l'auto close du bot après 3heures
 - Ajout d'un nouveau item
