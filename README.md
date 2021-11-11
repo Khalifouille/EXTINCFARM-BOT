@@ -58,3 +58,9 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 
 ((Il est préférable de se mettre en première personne si vous rencontrez des soucis avec le mode EXP))
 
+## MISE A JOUR DU 11/11/2021
+
+- Optimisation du stockage des items dans le contenaire protégé 
+- Correction du ramassage d'EXP
+- GROSSE MISE A JOUR GRAPHIQUE  
+
