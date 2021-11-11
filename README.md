@@ -51,7 +51,7 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 
 ((Le système d'XP est clairement en BETA-TEST si ya haja faut me le dire pour pouvoir le fix.))
 
-## MISE A JOUR DU 06/11/2021
+## MISE A JOUR DU 11/11/2021
 
 - Optimisation du script EXP
 - Modification de quelques aspects du BOT EXP suite à la demande de Maxime_
