@@ -44,10 +44,17 @@ Ne pas changer le nom du dossier sinon le script marchera plus et tant pis pour 
 
 ## MISE A JOUR DU 06/11/2021
 
-- Ajout d'un nouveau système pour XP
+- Ajout d'un nouveau système pour EXP
 - Ajout d'une nouvelle option sur le launcher
 - Ajout d'easter eggs pour dahka
 - Ajout de nouveaux items
 
 ((Le système d'XP est clairement en BETA-TEST si ya haja faut me le dire pour pouvoir le fix.))
+
+## MISE A JOUR DU 06/11/2021
+
+- Optimisation du script EXP
+- Modification de quelques aspects du BOT EXP suite à la demande de Maxime_
+
+((Il est préférable de se mettre en première personne si vous rencontrez des soucis avec le mode EXP))
 
